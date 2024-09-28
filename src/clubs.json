@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ind",
+    "shortName": "LAC",
+    "name": "Los Angeles Clippers"
+  },
+  {
+    "id": "ind",
+    "shortName": "IND",
+    "name": "Indiana Pacers"
+  },
+  {
+    "id": "okc",
+    "shortName": "OKC",
+    "name": "Oklahoma Thunder"
+  }
+]
